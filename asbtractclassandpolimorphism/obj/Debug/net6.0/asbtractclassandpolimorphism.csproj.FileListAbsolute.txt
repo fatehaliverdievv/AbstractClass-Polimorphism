@@ -1,0 +1,15 @@
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\bin\Debug\net6.0\asbtractclassandpolimorphism.exe
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\bin\Debug\net6.0\asbtractclassandpolimorphism.deps.json
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\bin\Debug\net6.0\asbtractclassandpolimorphism.runtimeconfig.json
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\bin\Debug\net6.0\asbtractclassandpolimorphism.dll
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\bin\Debug\net6.0\asbtractclassandpolimorphism.pdb
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.csproj.AssemblyReference.cache
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.AssemblyInfoInputs.cache
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.AssemblyInfo.cs
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.dll
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\refint\asbtractclassandpolimorphism.dll
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.pdb
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\asbtractclassandpolimorphism.genruntimeconfig.cache
+C:\Users\Fateh\Desktop\C#\asbtractclassandpolimorphism\asbtractclassandpolimorphism\obj\Debug\net6.0\ref\asbtractclassandpolimorphism.dll
